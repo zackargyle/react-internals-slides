@@ -1,0 +1,7 @@
+
+// No work is pending.
+// For controlled text inputs. Synchronous side-effects.
+// Needs to complete before the next frame.
+// Interaction that needs to complete pretty soon to feel responsive.
+// Data fetching, or result from updating stores.
+// Won't be visible but do the work in case it becomes visible.

@@ -1,0 +1,8 @@
+ReactElement {
+    _owner: null, // parent internal instance
+    _store: Object {},
+    key: null,
+    props: Object {},
+    ref: null,
+    type: Function|string
+}

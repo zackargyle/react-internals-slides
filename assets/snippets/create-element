@@ -1,0 +1,7 @@
+React.createElement(Slide, null,
+    React.createElement(CodePane, {
+      lang: "js",
+      style: CodeStyle,
+      source: require("raw!../assets/snippets/jsx")
+    })
+);

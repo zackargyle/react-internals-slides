@@ -1,0 +1,12 @@
+Fiber {
+  type: Function|string,
+  key: null,
+  child: Fiber,    // first child
+  sibling: Fiber,  // first sibling
+  return: Fiber,   // parent
+  pendingProps: Object,
+  memoizedProps: Object,
+  pendingWorkPriority: Number,
+  alternate: Fiber,
+  output: Object
+}

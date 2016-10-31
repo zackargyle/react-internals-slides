@@ -1,0 +1,17 @@
+ReactCompositeComponent {
+    _compositeType: Impure|Pure|StatelessFunctional,
+    _context: Object,
+    _currentElement: ReactElement,
+    _instance: ***Public Instance***,
+    _isOwnerNecessary: false,
+    _mountImage: null,
+    _mountIndex: 0,
+    _mountOrder: 2,
+    _pendingCallbacks: null,
+    _pendingElement: null,
+    _pendingStateQueue: null,
+    _renderedComponent: ***ReactDOMComponent***,
+    _rootNodeID: ".0",
+    _topLevelWrapper: ***ReactCompositeComponentWrapper***,
+    _warnedAboutRefsInRender: false
+}

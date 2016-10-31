@@ -1,0 +1,17 @@
+ReactDOMComponent {
+    _currentElement: ReactElement
+    _isOwnerNecessary: false
+    _mountImage: null
+    _mountIndex: 0
+    _nodeWithLegacyProperties: null
+    _previousStyle: null
+    _previousStyleCopy: null
+    _processedContextDev: Object
+    _renderedChildren: null
+    _rootNodeID: ".0"
+    _tag: "div"
+    _topLevelWrapper: null
+    _unprocessedContextDev: Object
+    _warnedAboutRefsInRender: false
+    _wrapperState: null
+}

@@ -1,0 +1,7 @@
+<Slide>
+  <CodePane
+    lang="js"
+    style={CodeStyle}
+    source={require("raw!../assets/snippets/jsx")}
+  />
+</Slide>

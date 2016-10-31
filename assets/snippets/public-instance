@@ -1,0 +1,24 @@
+Component {
+    _reactInternalInstance: ReactCompositeComponentWrapper,
+    context: Object,
+    props: Object,
+    refs: Object,
+    state: Object,
+    updater: Object,
+    __proto__: ReactComponent {
+        constructor: Function,
+        componentWillMount: Function,
+        render: Function,
+        componentDidMount: Function,
+        componentWillReceiveProps: Function,
+        shouldComponentUpdate: Function,
+        componentWillUpdate: Function,
+        componentDidUpdate: Function,
+        componentWillUnmount: Function,
+        __proto__: {
+            constructor: Function,
+            forceUpdate: Function,
+            setState: (partialState, callback)
+        }
+    }
+}
